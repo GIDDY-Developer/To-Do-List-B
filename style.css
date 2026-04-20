@@ -1,0 +1,21 @@
+.controls {
+  margin: 10px 0;
+  display: flex;
+  justify-content: space-between;
+}
+
+.controls button {
+  flex: 1;
+  margin: 0 5px;
+}
+
+.footer {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 15px;
+}
+
+.active-filter {
+  background: black;
+  color: white;
+}
